@@ -15,19 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RolandoNajera/rolasnajera-site.git"
+    "url": "git+https://github.com/rolasnajera/software-engineer-site.git"
   },
   "keywords": [
     "rolasnajera",
-    "personal-site",
+    "developer-site",
     "react"
   ],
   "author": "Rolas Najera",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RolandoNajera/rolasnajera-site/issues"
+    "url": "https://github.com/rolasnajera/software-engineer-site/issues"
   },
-  "homepage": "https://rolasnajera.github.io/rolasnajera.dev",
+  "homepage": "https://rolasnajera.github.io/software-engineer-site",
   "devDependencies": {
     "eslint": "^8.14.0",
     "eslint-config-prettier": "^8.5.0",
